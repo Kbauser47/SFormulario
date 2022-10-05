@@ -103,7 +103,7 @@
             // 
             this.txtcar.Location = new System.Drawing.Point(175, 126);
             this.txtcar.Name = "txtcar";
-            this.txtcar.Size = new System.Drawing.Size(151, 20);
+            this.txtcar.Size = new System.Drawing.Size(203, 20);
             this.txtcar.TabIndex = 5;
             // 
             // btnnuevo
